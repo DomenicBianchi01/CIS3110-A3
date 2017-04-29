@@ -7,7 +7,7 @@
  ************************/
 
 #include <stdio.h>
-#include "parseFile.h"
+#include "runHoles.h"
 
 int main(int argc, char * argv[]) {
 
