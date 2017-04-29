@@ -2,7 +2,7 @@
 #include <pthread.h>
 #include <unistd.h>
 #include <stdbool.h>
-#include "parseFile2.h"
+#include "dine.h"
 
 //Mutex variable
 pthread_mutex_t forkLock[10000000];
