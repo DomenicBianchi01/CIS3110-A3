@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#include "parseFile.h"
+#include "holes.h"
 
 Process * parseDataFile(char fileName[]) {
 
