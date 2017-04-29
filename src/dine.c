@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "parseFile2.h"
+#include "runDine.h"
 
 int main(int argc, char * argv[]) {
 
